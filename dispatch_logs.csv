@@ -1,0 +1,470 @@
+2026-08-17 15:26:28,♻️ VAN [R_VAN_1] emptied RECYCLING Bin [R1-DW] at [Downtown Square]. Status: SORTING FOR RECYCLING PLANT
+2026-08-17 15:26:29,🚛 TRUCK [G_TRUCK_2] emptied GENERAL Bin [G2-OL] at [Oak & Lincoln]. Status: SORTING FOR LANDFILL TRIP
+2026-08-17 15:26:29,♻️ VAN [R_VAN_3] emptied RECYCLING Bin [R2-MB] at [Main St. Bus Stop]. Status: SORTING FOR RECYCLING PLANT
+2026-08-17 15:26:29,🚛 TRUCK [G_TRUCK_4] emptied GENERAL Bin [G1-DW] at [Downtown Square]. Status: SORTING FOR LANDFILL TRIP
+2026-08-17 15:26:29,🚛 TRUCK [G_TRUCK_5] emptied GENERAL Bin [G3-UN] at [University Ave]. Status: SORTING FOR LANDFILL TRIP
+2026-08-17 15:26:32,♻️ VAN [R_VAN_6] emptied RECYCLING Bin [R1-DW] at [Downtown Square]. Status: SORTING FOR RECYCLING PLANT
+2026-08-17 15:29:21,♻️ VAN [V-1] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:21,♻️ VAN [V-2] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:40,🚛 TRUCK [T-3] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-17 15:29:40,🚛 TRUCK [T-4] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-17 15:29:40,🚛 TRUCK [T-5] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-17 15:29:40,♻️ VAN [V-6] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:41,♻️ VAN [V-7] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:41,🚛 TRUCK [T-8] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-17 15:29:41,♻️ VAN [V-9] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:41,🚛 TRUCK [T-10] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-17 15:29:44,♻️ VAN [V-11] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:29:44,🚛 TRUCK [T-12] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-17 15:35:58,♻️ VAN [V-1] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:00,🚛 TRUCK [T-2] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-17 15:36:00,🚛 TRUCK [T-3] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-17 15:36:01,🚛 TRUCK [T-4] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-17 15:36:01,♻️ VAN [V-5] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:02,♻️ VAN [V-6] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:03,🚛 TRUCK [T-7] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-17 15:36:04,🚛 TRUCK [T-8] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-17 15:36:04,♻️ VAN [V-9] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:04,♻️ VAN [V-10] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:06,🚛 TRUCK [T-11] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-17 15:36:07,🚛 TRUCK [T-12] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-17 15:36:08,🚛 TRUCK [T-13] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-17 15:36:08,♻️ VAN [V-14] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:08,♻️ VAN [V-15] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-17 15:36:09,🚛 TRUCK [T-16] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 13:15:48,🚛 TRUCK [T-1] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 13:31:39,♻️ VAN [V-2] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 13:31:39,♻️ VAN [V-3] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 13:31:39,🚛 TRUCK [T-4] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 13:31:42,🚛 TRUCK [T-5] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:04:26,♻️ VAN [V-6] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:04:26,🚛 TRUCK [T-7] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:04:26,♻️ VAN [V-8] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:04:27,🚛 TRUCK [T-9] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:04:28,🚛 TRUCK [T-10] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:04:28,♻️ VAN [V-11] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:04:28,🚛 TRUCK [T-12] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:04:28,♻️ VAN [V-13] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:04:30,♻️ VAN [V-14] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:04:30,♻️ VAN [V-15] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:05:30,🚛 TRUCK [T-16] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:05:30,🚛 TRUCK [T-17] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:05:30,🚛 TRUCK [T-18] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:37:59,♻️ VAN [V-19] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:00,🚛 TRUCK [T-20] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:38:01,♻️ VAN [V-21] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:01,♻️ VAN [V-22] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:01,🚛 TRUCK [T-23] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:01,🚛 TRUCK [T-24] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:01,♻️ VAN [V-25] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:02,♻️ VAN [V-26] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:02,🚛 TRUCK [T-27] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:02,♻️ VAN [V-28] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:02,🚛 TRUCK [T-29] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:38:02,♻️ VAN [V-30] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:02,🚛 TRUCK [T-31] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-32] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-33] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-34] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-35] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-36] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-37] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-38] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-39] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-40] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-41] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-42] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-43] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-44] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,♻️ VAN [V-45] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:03,🚛 TRUCK [T-46] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:04,🚛 TRUCK [T-47] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:38:04,🚛 TRUCK [T-48] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:38:04,♻️ VAN [V-49] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:04,♻️ VAN [V-50] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:38:04,🚛 TRUCK [T-51] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 14:38:04,♻️ VAN [V-52] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:43:37,🚛 TRUCK [T-53] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 14:43:37,♻️ VAN [V-54] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 14:43:37,🚛 TRUCK [T-55] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 14:43:37,🚛 TRUCK [T-56] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 15:53:15,♻️ VAN [V-1] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:53:15,♻️ VAN [V-2] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:53:37,🚛 TRUCK [T-3] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 15:55:07,🚛 TRUCK [T-4] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 15:55:07,♻️ VAN [V-5] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:07,♻️ VAN [V-6] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:07,🚛 TRUCK [T-7] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 15:55:07,🚛 TRUCK [T-8] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 15:55:07,♻️ VAN [V-9] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:08,🚛 TRUCK [T-10] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 15:55:08,♻️ VAN [V-11] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:08,🚛 TRUCK [T-12] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 15:55:08,🚛 TRUCK [T-13] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 15:55:08,🚛 TRUCK [T-14] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 15:55:09,♻️ VAN [V-15] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:09,♻️ VAN [V-16] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:10,🚛 TRUCK [T-17] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 15:55:10,♻️ VAN [V-18] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:10,🚛 TRUCK [T-19] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 15:55:10,♻️ VAN [V-20] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:10,🚛 TRUCK [T-21] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 15:55:10,♻️ VAN [V-22] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:10,🚛 TRUCK [T-23] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 15:55:10,♻️ VAN [V-24] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:10,🚛 TRUCK [T-25] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 15:55:11,🚛 TRUCK [T-26] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 15:55:11,♻️ VAN [V-27] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:11,🚛 TRUCK [T-28] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 15:55:11,♻️ VAN [V-29] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:11,♻️ VAN [V-30] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 15:55:12,🚛 TRUCK [T-31] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 15:55:12,♻️ VAN [V-32] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:15,🚛 TRUCK [T-1] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:00:15,♻️ VAN [V-2] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:15,🚛 TRUCK [T-3] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:00:15,♻️ VAN [V-4] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:15,♻️ VAN [V-5] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:30,🚛 TRUCK [T-6] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 16:00:31,♻️ VAN [V-7] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:31,🚛 TRUCK [T-8] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:00:33,🚛 TRUCK [T-9] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:00:33,♻️ VAN [V-10] collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:00:33,🚛 TRUCK [T-11] collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:00:33,♻️ VAN [V-12] collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:06:33,🚛 TRUCK [T-13] collected General Waste at [University Ave]. Route: LANDFILL ROUTE
+2026-08-18 16:06:44,🚛 TRUCK [T-14] collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:06:44,♻️ VAN [V-15] collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:06:44,🚛 TRUCK [T-16] collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:12:37,[VAN] V-1 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:12:37,[VAN] V-2 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:44,[TRUCK] T-1 collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:20:44,[VAN] V-2 collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:44,[TRUCK] T-3 collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:20:44,[VAN] V-4 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:44,[VAN] V-5 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:45,[TRUCK] T-6 collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:20:45,[VAN] V-7 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:46,[TRUCK] T-8 collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:20:46,[VAN] V-9 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:46,[VAN] V-10 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:46,[TRUCK] T-11 collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:20:46,[VAN] V-12 collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[VAN] V-13 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[TRUCK] T-14 collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:20:47,[VAN] V-15 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[VAN] V-16 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[TRUCK] T-17 collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:20:47,[TRUCK] T-18 collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:20:47,[VAN] V-19 collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[VAN] V-20 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:47,[VAN] V-21 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:48,[TRUCK] T-22 collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:20:48,[VAN] V-23 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:48,[TRUCK] T-24 collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:20:48,[VAN] V-25 collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:48,[TRUCK] T-26 collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:20:48,[VAN] V-27 collected Recyclables at [Main St. Bus Stop]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:48,[VAN] V-28 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:48,[VAN] V-29 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:49,[TRUCK] T-30 collected General Waste at [Oak & Lincoln]. Route: LANDFILL ROUTE
+2026-08-18 16:20:49,[TRUCK] T-31 collected General Waste at [Cyberjaya]. Route: LANDFILL ROUTE
+2026-08-18 16:20:49,[TRUCK] T-32 collected General Waste at [Downtown Square]. Route: LANDFILL ROUTE
+2026-08-18 16:20:49,[VAN] V-33 collected Recyclables at [Downtown Square]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:49,[VAN] V-34 collected Recyclables at [Cyberjaya]. Route: RECYCLING PLANT ROUTE
+2026-08-18 16:20:49,[VAN] V-35 collected Recyclables at [University Ave]. Route: RECYCLING PLANT ROUTE
+2026-08-18 17:00:19,[VAN] V-1 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:19,[TRUCK] T-2 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:19,[VAN] V-3 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:19,[VAN] V-4 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:21,[TRUCK] T-5 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:21,[VAN] V-6 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:21,[TRUCK] T-7 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:23,[VAN] V-8 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:23,[VAN] V-9 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:25,[TRUCK] T-10 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:25,[TRUCK] T-11 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:25,[VAN] V-12 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:25,[VAN] V-13 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[VAN] V-14 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[TRUCK] T-15 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[VAN] V-16 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[VAN] V-17 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[TRUCK] T-18 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[VAN] V-19 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[VAN] V-20 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[VAN] V-21 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[TRUCK] T-22 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[TRUCK] T-23 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[VAN] V-24 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[VAN] V-25 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[TRUCK] T-26 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[TRUCK] T-27 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[VAN] V-28 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:27,[TRUCK] T-29 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:27,[VAN] V-30 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-31 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-32 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-33 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-34 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-35 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-36 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-37 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-38 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-39 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-40 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-41 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-42 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-43 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-44 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-45 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-46 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-47 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-48 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-49 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-50 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-51 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-52 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-53 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-54 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-55 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-56 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-57 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-58 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-59 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-60 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-61 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-62 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-63 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-64 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-65 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-66 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-67 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-68 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-69 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-70 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-71 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-72 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-73 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-74 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-75 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-76 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-77 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-78 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-79 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-80 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-81 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-82 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-83 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-84 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-85 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-86 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-87 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-88 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-89 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-90 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-91 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-92 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-93 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-94 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-95 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-96 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-97 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-98 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-99 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-100 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[TRUCK] T-101 collected General Waste at [Downtown Square]. Path: Direct Route to Downtown Square. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-102 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-103 collected General Waste at [Oak & Lincoln]. Path: Direct Route to Oak & Lincoln. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-104 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-105 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-106 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-107 collected Recyclables at [Downtown Square]. Path: Direct Route to Downtown Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-108 collected Recyclables at [Main St. Bus Stop]. Path: Direct Route to Main St. Bus Stop. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[TRUCK] T-109 collected General Waste at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: LANDFILL ROUTE
+2026-08-18 17:00:29,[VAN] V-110 collected Recyclables at [Cyberjaya]. Path: Direct Route to Cyberjaya. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:00:29,[VAN] V-111 collected Recyclables at [University Ave]. Path: Direct Route to University Ave. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:02,[VAN] V-1 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:02,[VAN] V-2 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[TRUCK] T-3 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[TRUCK] T-4 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[TRUCK] T-5 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[VAN] V-6 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-7 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-8 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-9 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[TRUCK] T-10 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[VAN] V-11 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[TRUCK] T-12 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[VAN] V-13 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-14 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[TRUCK] T-15 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[VAN] V-16 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-17 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[TRUCK] T-18 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[TRUCK] T-19 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:41,[VAN] V-20 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:41,[VAN] V-21 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-22 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-23 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-24 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-25 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-26 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-27 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-28 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-29 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-30 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-31 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-32 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-33 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-34 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-35 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-36 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-37 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-38 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-39 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-40 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-41 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-42 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-43 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-44 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-45 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-46 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-47 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-48 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-49 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-50 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-51 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-52 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-53 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-54 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-55 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-56 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-57 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-58 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-59 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-60 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-61 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-62 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-63 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-64 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-65 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-66 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-67 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-68 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-69 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-70 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-71 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-72 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-73 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-74 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-75 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-76 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-77 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-78 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-79 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[TRUCK] T-80 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-81 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-82 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-83 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-84 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-85 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-86 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-87 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-88 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-89 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-90 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-91 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-92 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-93 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:16:50,[VAN] V-94 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-95 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[VAN] V-96 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:16:50,[TRUCK] T-97 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:17:02,[VAN] V-98 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:02,[VAN] V-99 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:04,[TRUCK] T-100 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:17:04,[VAN] V-101 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:04,[VAN] V-102 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:06,[TRUCK] T-103 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:17:06,[TRUCK] T-104 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:17:06,[VAN] V-105 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:06,[VAN] V-106 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:08,[VAN] V-107 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:10,[VAN] V-108 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:10,[VAN] V-109 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:12,[TRUCK] T-110 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: LANDFILL ROUTE
+2026-08-18 17:17:12,[VAN] V-111 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:12,[TRUCK] T-112 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: LANDFILL ROUTE
+2026-08-18 17:17:12,[VAN] V-113 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:14,[VAN] V-114 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall (Dist: 3km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:14,[TRUCK] T-115 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square (Dist: 5km). Process: LANDFILL ROUTE
+2026-08-18 17:17:14,[VAN] V-116 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens (Dist: 7km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:16,[VAN] V-117 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square (Dist: 4km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:17:16,[VAN] V-118 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University (Dist: 5km). Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-119 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:36:24,[VAN] V-120 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-121 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-122 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:36:24,[VAN] V-123 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-124 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-125 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:36:24,[VAN] V-126 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-127 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-128 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-129 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:36:24,[VAN] V-130 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-131 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:36:24,[VAN] V-132 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-133 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[VAN] V-134 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:24,[TRUCK] T-135 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:36:31,[VAN] V-136 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:31,[VAN] V-137 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:31,[VAN] V-138 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:48,[TRUCK] T-139 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:36:48,[VAN] V-140 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:48,[TRUCK] T-141 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:36:59,[TRUCK] T-142 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:36:59,[VAN] V-143 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:36:59,[VAN] V-144 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:37:09,[VAN] V-145 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:40:52,[TRUCK] T-146 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:40:52,[VAN] V-147 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:40:52,[TRUCK] T-148 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:40:52,[VAN] V-149 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:40:52,[TRUCK] T-150 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:40:52,[VAN] V-151 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:53:51,[TRUCK] T-1 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:53:51,[VAN] V-2 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:53:51,[VAN] V-3 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:19,[TRUCK] T-4 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:54:19,[VAN] V-5 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:19,[VAN] V-6 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:19,[TRUCK] T-7 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:54:33,[VAN] V-8 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:33,[TRUCK] T-9 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:54:33,[VAN] V-10 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:33,[VAN] V-11 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:33,[VAN] V-12 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:42,[TRUCK] T-13 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:54:42,[TRUCK] T-14 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:54:51,[VAN] V-15 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:51,[TRUCK] T-16 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:54:51,[VAN] V-17 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:51,[VAN] V-18 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:54:51,[VAN] V-19 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:00,[TRUCK] T-20 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:55:03,[VAN] V-21 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:03,[TRUCK] T-22 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:55:03,[VAN] V-23 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:03,[TRUCK] T-24 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:55:05,[VAN] V-25 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:05,[VAN] V-26 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:07,[TRUCK] T-27 collected General Waste at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: LANDFILL ROUTE
+2026-08-18 17:55:07,[TRUCK] T-28 collected General Waste at [Tamarind Square]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square. Process: LANDFILL ROUTE
+2026-08-18 17:55:09,[VAN] V-29 collected Recyclables at [DPULZE Mall]. Path: Cyberjaya Depot -> DPULZE Mall. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:09,[VAN] V-30 collected Recyclables at [Shaftsbury Square]. Path: Cyberjaya Depot -> Shaftsbury Square. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:09,[TRUCK] T-31 collected General Waste at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: LANDFILL ROUTE
+2026-08-18 17:55:09,[VAN] V-32 collected Recyclables at [Cyberjaya Lake Gardens]. Path: Cyberjaya Depot -> DPULZE Mall -> Tamarind Square -> Cyberjaya Lake Gardens. Process: RECYCLING PLANT ROUTE
+2026-08-18 17:55:09,[VAN] V-33 collected Recyclables at [Multimedia University]. Path: Cyberjaya Depot -> DPULZE Mall -> Multimedia University. Process: RECYCLING PLANT ROUTE

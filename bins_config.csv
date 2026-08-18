@@ -1,0 +1,8 @@
+Type,ID,Location,Capacity_KG
+GENERAL,G1-DW,DPULZE Mall,100.0
+RECYCLABLE,R1-DW,DPULZE Mall,80.0
+GENERAL,G2-OL,Tamarind Square,100.0
+RECYCLABLE,R2-MB,Shaftsbury Square,80.0
+GENERAL,G3-CJ,Cyberjaya Lake Gardens,100.0
+RECYCLABLE,R3-CJ,Cyberjaya Lake Gardens,80.0
+RECYCLABLE,G3-UN,Multimedia University,80.0
