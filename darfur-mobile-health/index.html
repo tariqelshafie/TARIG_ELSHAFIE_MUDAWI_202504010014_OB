@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Darfur Mobile Health Record System — offline-first browser prototype for humanitarian clinics." />
+  <title>Darfur Mobile Health Record System</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="toast-host" class="toast-host" aria-live="polite"></div>
+
+  <!-- LOGIN -->
+  <div id="view-login" class="view login-page">
+    <main class="login-main">
+      <div class="login-card">
+        <div class="brand-block">
+          <img class="brand-logo" src="assets/logo.svg" alt="Mobile Health System logo" />
+          <h1 class="brand-title">Mobile Health System</h1>
+          <p class="brand-subtitle">Humanitarian Health Support</p>
+          <p class="motto">Better Care. Smarter Workflows. Healthier Communities.</p>
+        </div>
+
+        <form id="login-form" novalidate>
+          <div class="form-group">
+            <label for="login-org">Select Organization</label>
+            <div class="input-wrap">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"/></svg>
+              </span>
+              <select id="login-org" required></select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="login-drn">DRN (Doctor Registration No.)</label>
+            <div class="input-wrap">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              </span>
+              <input id="login-drn" type="text" autocomplete="username" placeholder="e.g. 10234" required />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="login-password">Password</label>
+            <div class="input-wrap has-toggle">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              </span>
+              <input id="login-password" type="password" autocomplete="current-password" placeholder="••••••••" required />
+              <button type="button" class="toggle-password" id="toggle-password" aria-label="Show password">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8S1 12 1 12z"/><circle cx="12" cy="12" r="3"/></svg>
+              </button>
+            </div>
+            <div class="field-error" id="login-error"></div>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block">Login</button>
+        </form>
+
+        <div id="login-status" class="login-status" role="status"></div>
+
+        <label class="switch" style="margin-top:0.85rem;justify-content:center;width:100%;">
+          <input type="checkbox" id="login-force-offline" />
+          Simulate offline mode
+        </label>
+
+        <div class="demo-box">
+          <h3>Demo credentials</h3>
+          <ul id="demo-accounts"></ul>
+          <p style="margin:0.55rem 0 0;">Org default: <code>Humanitarian Relief Org.</code></p>
+        </div>
+      </div>
+    </main>
+    <footer class="footer-banner">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M8 14c-2 0-4-1.5-4-4 0-1.5 1-3 2.5-3.5"/><path d="M16 14c2 0 4-1.5 4-4 0-1.5-1-3-2.5-3.5"/>
+        <path d="M9 17c1 1.5 2 2 3 2s2-.5 3-2"/><path d="M7 11h2M15 11h2"/>
+      </svg>
+      <span>Supporting Humanitarian Efforts in Darfur | Reliable Healthcare Data for a Healthier Sudan.</span>
+    </footer>
+  </div>
+
+  <!-- APP SHELL -->
+  <div id="view-app" class="view hidden">
+    <div class="app-layout">
+      <aside class="sidebar" aria-label="Main navigation">
+        <img class="side-logo" src="assets/logo.svg" alt="" />
+        <nav id="sidebar-nav"></nav>
+      </aside>
+
+      <div class="main-area">
+        <header class="topbar">
+          <div class="topbar-title" id="topbar-title">Mobile Clinic System</div>
+          <div class="topbar-meta">
+            <span class="badge conn-badge badge-online">Online</span>
+            <span id="topbar-user"></span>
+            <button type="button" class="link-btn" data-nav="logout">Logout</button>
+          </div>
+        </header>
+
+        <main class="content">
+          <!-- Dashboard -->
+          <section id="screen-dashboard" class="screen">
+            <div class="page-header">
+              <h1>Clinic dashboard</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="sync-panel" id="dash-stats"></div>
+            <div class="card">
+              <h2>Quick actions</h2>
+              <div class="toolbar" id="dash-actions"></div>
+              <p id="dash-role-note" style="color:var(--muted);font-size:0.9rem;margin:0.5rem 0 0;"></p>
+              <div class="placeholder-stub">
+                <strong>PLACEHOLDER — Ministry of Health integration</strong>
+                Aggregate indicators and national patient registry lookup would appear here after MoH authorization. This prototype has no live MoH connection.
+              </div>
+            </div>
+          </section>
+
+          <!-- Registration -->
+          <section id="screen-register" class="screen hidden">
+            <div class="page-header">
+              <h1>Patient Registration</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="stepper" aria-label="Registration steps">
+              <div class="step active" data-step="1"><span class="num">1</span> Registration</div>
+              <div class="step" data-step="2"><span class="num">2</span> Confirm</div>
+              <div class="step" data-step="3"><span class="num">3</span> Summary</div>
+            </div>
+            <div class="card">
+              <div id="reg-pane-1" class="reg-pane">
+                <h2>Patient Information</h2>
+                <div class="form-grid">
+                  <div class="form-group full">
+                    <label class="required" for="reg-fullname">Full Name</label>
+                    <div class="input-wrap">
+                      <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></span>
+                      <input id="reg-fullname" type="text" autocomplete="name" />
+                    </div>
+                    <div class="field-error" id="err-fullname"></div>
+                  </div>
+                  <div class="form-group full">
+                    <label class="required" for="reg-nationalId">Passport No. / National ID</label>
+                    <div class="input-wrap">
+                      <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20"/></svg></span>
+                      <input id="reg-nationalId" type="text" />
+                    </div>
+                    <div class="field-error" id="err-nationalId"></div>
+                  </div>
+                  <div class="form-group">
+                    <label class="required" for="reg-dob">Date of Birth</label>
+                    <div class="input-wrap">
+                      <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></span>
+                      <input id="reg-dob" type="date" />
+                    </div>
+                    <div class="field-error" id="err-dob"></div>
+                  </div>
+                  <div class="form-group">
+                    <label for="reg-phone">Phone Number (Optional)</label>
+                    <div class="input-wrap">
+                      <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.11 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.81.36 1.6.68 2.34a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.74.32 1.53.55 2.34.68A2 2 0 0 1 22 16.92z"/></svg></span>
+                      <input id="reg-phone" type="tel" placeholder="+249 …" />
+                    </div>
+                  </div>
+                  <div class="form-group full">
+                    <label class="required" for="reg-address">Address / Location</label>
+                    <div class="input-wrap">
+                      <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M12 21s7-4.5 7-11a7 7 0 1 0-14 0c0 6.5 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></span>
+                      <input id="reg-address" type="text" placeholder="Camp, locality, or settlement" />
+                    </div>
+                    <div class="field-error" id="err-address"></div>
+                  </div>
+                </div>
+                <div class="form-actions">
+                  <button type="button" class="btn btn-secondary" id="reg-cancel">Cancel</button>
+                  <button type="button" class="btn btn-primary" id="reg-next">Next →</button>
+                </div>
+              </div>
+
+              <div id="reg-pane-2" class="reg-pane hidden">
+                <h2>Confirm registration</h2>
+                <div id="reg-review"></div>
+                <div class="form-actions">
+                  <button type="button" class="btn btn-secondary" id="reg-back">← Back</button>
+                  <button type="button" class="btn btn-primary" id="reg-save">Save patient</button>
+                </div>
+              </div>
+
+              <div id="reg-pane-3" class="reg-pane hidden">
+                <h2>Registration summary</h2>
+                <div id="reg-summary"></div>
+              </div>
+            </div>
+          </section>
+
+          <!-- Patients -->
+          <section id="screen-patients" class="screen hidden">
+            <div class="page-header">
+              <h1>Patient Records</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="card">
+              <div class="search-bar">
+                <input id="patient-search" type="search" placeholder="Search by name, ID, or location…" />
+              </div>
+              <div id="patients-table"></div>
+              <p style="color:var(--muted);font-size:0.8rem;margin-top:0.75rem;">
+                National IDs are masked in the list. Full ID is shown only in the record detail view.
+              </p>
+            </div>
+            <div id="patient-detail" class="card hidden" style="margin-top:1rem;"></div>
+          </section>
+
+          <!-- Queue -->
+          <section id="screen-queue" class="screen hidden">
+            <div class="page-header">
+              <h1>Waiting Queue</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="card">
+              <div class="queue-list" id="queue-list"></div>
+            </div>
+          </section>
+
+          <!-- Consultation -->
+          <section id="screen-consultation" class="screen hidden">
+            <div class="page-header">
+              <h1>Doctor Consultation</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="card">
+              <div class="form-group">
+                <label for="consult-patient-select">Select patient</label>
+                <select id="consult-patient-select"></select>
+              </div>
+              <div id="consult-meta"></div>
+
+              <div class="form-grid">
+                <div class="form-group">
+                  <label for="consult-temp">Temperature (°C)</label>
+                  <div class="input-wrap">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M14 14.76V5a2 2 0 1 0-4 0v9.76a4 4 0 1 0 4 0z"/></svg></span>
+                    <input id="consult-temp" type="number" step="0.1" min="30" max="45" placeholder="36.8" />
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="consult-med">Medication Prescribed</label>
+                  <div class="input-wrap">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="m10.5 1.5 6 6-9 9H1.5v-6l9-9z"/><path d="m13.5 4.5 6 6"/></svg></span>
+                    <select id="consult-med"></select>
+                  </div>
+                </div>
+                <div class="form-group full">
+                  <label>Diagnosis / Common Diseases</label>
+                  <div class="diagnosis-grid" id="consult-dx"></div>
+                </div>
+                <div class="form-group full">
+                  <label for="consult-notes">Clinical Notes</label>
+                  <textarea id="consult-notes" rows="4" placeholder="Observations, plan, follow-up…"></textarea>
+                </div>
+              </div>
+
+              <div class="form-actions">
+                <button type="button" class="btn btn-secondary" id="consult-clear">Clear</button>
+                <button type="button" class="btn btn-primary" id="consult-save">💾 Save Record</button>
+                <button type="button" class="btn btn-accent" id="consult-next">Next Patient →</button>
+              </div>
+
+              <div class="placeholder-stub">
+                <strong>PLACEHOLDER — Clinical decision support / MoH coding</strong>
+                ICD/FHIR coding, allergy checks, and dosage safety prompts would be wired here after clinical authority sign-off. This form is documentation only — not a substitute for clinical judgment.
+              </div>
+            </div>
+          </section>
+
+          <!-- Sync -->
+          <section id="screen-sync" class="screen hidden">
+            <div class="page-header">
+              <h1>Sync Status</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="toolbar">
+              <label class="switch">
+                <input type="checkbox" id="force-offline" />
+                Simulate offline (queue changes locally)
+              </label>
+              <button type="button" class="btn btn-primary" id="btn-sync-now">Sync now</button>
+            </div>
+            <div class="sync-panel" id="sync-stats"></div>
+            <div class="card">
+              <h2>Pending sync queue</h2>
+              <div id="sync-queue-table"></div>
+              <div class="placeholder-stub">
+                <strong>PLACEHOLDER — Real backend sync</strong>
+                Production would encrypt the offline store, authenticate to an organization/MoH FHIR endpoint, resolve conflicts, and retry with back-off. This prototype only simulates clearing the local queue.
+              </div>
+            </div>
+          </section>
+
+          <!-- Admin -->
+          <section id="screen-admin" class="screen hidden">
+            <div class="page-header">
+              <h1>Administration</h1>
+              <span class="badge conn-badge badge-online">Online</span>
+            </div>
+            <div class="toolbar">
+              <button type="button" class="btn btn-secondary" id="btn-reset-demo">Reset demo data</button>
+            </div>
+            <div class="card" id="admin-overview"></div>
+            <div class="placeholder-stub" style="margin-top:1rem;">
+              <strong>PLACEHOLDER — User &amp; facility administration</strong>
+              Org user management, facility rosters, access reviews, and audit-log export would live here. No production auth or real patient backend is connected.
+            </div>
+          </section>
+        </main>
+
+        <footer class="footer-banner">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M8 14c-2 0-4-1.5-4-4 0-1.5 1-3 2.5-3.5"/><path d="M16 14c2 0 4-1.5 4-4 0-1.5-1-3-2.5-3.5"/>
+            <path d="M9 17c1 1.5 2 2 3 2s2-.5 3-2"/><path d="M7 11h2M15 11h2"/>
+          </svg>
+          <span>Supporting Humanitarian Efforts in Darfur | Reliable Healthcare Data for a Healthier Sudan.</span>
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
